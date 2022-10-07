@@ -5,3 +5,7 @@ import { userValidation } from "./easy/userValidation.js";
 import { longestWord } from "./easy/longestWord.js";
 
 console.log(longestWord("fun&!! time"));
+
+import { firstFactoriel } from "./easy/firstFactoriel.js";
+
+console.log(firstFactoriel(8));
